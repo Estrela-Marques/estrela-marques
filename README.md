@@ -1,4 +1,4 @@
-## Oiee! 👋 Eu sou a Estrela Marques! 
+## Oiii! Eu sou a Estrela Marques! 👋
 
 Estudante de programação 💻📚
 
