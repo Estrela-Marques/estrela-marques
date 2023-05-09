@@ -1,7 +1,6 @@
 ## Oiii! Eu sou a Estrela Marques! 👋
 
-Estudante de programação 💻📚
-
+Estudante 💻📚 Análise e Desenvolvimento de Sistemas 
 
 
 <div align="center">
