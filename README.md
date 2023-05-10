@@ -1,7 +1,9 @@
-## Oiii! Eu sou a Estrela Marques! 👋
+## <div align="center"> Oiii! Eu sou a Estrela Marques! 👋</div> 
+Graduação: Análise e Desenvolvimento de Sistemas 💻📚 
 
-Estudante 💻📚 
-Análise e Desenvolvimento de Sistemas 
+ 
+
+##
 
 
 <div align="center">
@@ -17,6 +19,7 @@ Análise e Desenvolvimento de Sistemas
   <img align="center" alt="Star-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Star-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Star-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Star-C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
   <img align="center" alt="Star-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Star-pic" height="150" style="border-radius:50px;" src="https://cdn.pixabay.com/photo/2016/01/02/16/39/darth-vader-1118454__340.png">
 </div>
