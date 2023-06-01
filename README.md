@@ -1,4 +1,6 @@
-## <div align="center"> Oiii! Eu sou a Estrela Marques! 👋</div> 
+![Profile views](https://gpvc.arturio.dev/estrelamarques)
+
+## <div align="center"> Oiii! Eu sou a Estrela Marques! 👋</div 
 Graduação: Análise e Desenvolvimento de Sistemas 💻📚 
 
  
