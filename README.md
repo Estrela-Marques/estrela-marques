@@ -36,22 +36,31 @@
    
   ![Snake animation](https://github.com/Estrela-Marques/estrela-marques/blob/output/github-contribution-grid-snake.svg)
    
-   ##
+ 
    
    ## ⭐️ Sobre mim ⭐️ 
+   
+   
+ <b>"Uma grande descoberta não surge do cérebro de um cientista já pronta, é fruto de um acúmulo de trabalho preliminar." - Marie Curie</b>
+   
+   ![Gif Bob Esponja lendo](https://media.tenor.com/xTPUNuz-jv0AAAAM/spongebob-thinking.gif)
 <div align='center'>
-  <b>"Uma grande descoberta não surge do cérebro de um cientista já pronta, é fruto de um acúmulo de trabalho preliminar." - Marie Curie</b>
  
-Após me formar em enfermagem e trabalhar na UTI Neonatal, decidi realizar uma transição de carreira. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas como minha segunda graduação como foco em Back-End. Além disso, estou buscando aprimorar minhas habilidades através de cursos na plataforma Alura.
+ <p></p>
+ 
+Após me formar em enfermagem e trabalhar na UTI Neonatal, decidi realizar uma transição de carreira. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas como minha segunda graduação. Além disso, estou buscando aprimorar minhas habilidades através de cursos na plataforma Alura, com foco em Back-End.
  
 <br>    
-</div>
+  
+   ## Além da programação...  
+ 
+ 
+  </div>
   <div align="center">
-    <img align="center" alt="Star-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjoaITDaTAP8X1vj0jyMV8UXtCk-DVbX5m9Q&usqp=CAU)">
+    <img align="center" alt="Star-pic" height="150" style="[border-radius:50px;" src="http://images.universohq.com/2010/01/bigbang2.jpg">
 </div> 
 <br>
- 
- <b>Além da programação...</b>
+    
  
  Sou uma pessoa extrovertida, alegre e que adora dar risadas. Encontro calma e energia na natureza, sendo um ambiente que me conecta profundamente. Além disso, sou apaixonada por esportes como corrida, ciclismo, trekking, yoga e pilates, pois eles me permitem manter meu corpo e mente saudáveisa
  Gosto bastante de experimentar os mais variados tipos de cervejas, inclusive a Duchesse de Bourgogne conquistou meu coração. Hamburgers e lanches diferentes também me encantam.
