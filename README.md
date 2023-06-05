@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/estrelamarques)
+
  
 ## <div align="center">  Oiii! Eu sou a Estrela Marques! 👋
  
@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/estrela-marques">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=estrela-marques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estrela-marques&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=estrela-marques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=estrela-marques&layout=compact&langs_count=7&theme=dracula"/>
 
 
 <div style="display: inline_block"><br>
@@ -51,3 +51,23 @@
 Após me formar em enfermagem e trabalhar na UTI Neonatal, decidi realizar uma transição de carreira. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas como minha segunda graduação. Além disso, estou buscando aprimorar minhas habilidades através de cursos com foco em Back-End.
  
 <br>
+ 
+ ## Além da programação...  
+ 
+ 
+  </div>
+  <div align="center">
+    <img align="center" alt="Star-pic" height="150" style="[border-radius:50px;" src="http://images.universohq.com/2010/01/bigbang2.jpg">
+</div> 
+<br>
+    
+ 
+ Sou uma pessoa extrovertida, alegre e que adora dar risadas. Encontro calma e energia na natureza, sendo um ambiente que me conecta profundamente. Além disso, sou apaixonada por esportes como corrida, ciclismo, trekking, yoga e pilates, pois eles me permitem manter meu corpo e mente saudáveisa
+ Gosto bastante de experimentar os mais variados tipos de cervejas, inclusive a Duchesse de Bourgogne conquistou meu coração. Hamburgers e lanches diferentes também me encantam.
+ Gosto bastante de livros e do cheiro deles também. Vou listar alguns que me fizeram mudar e pensar...
+</div>
+ 
+ -  <a href='https://www.amazon.com.br/Vendedor-Sonhos-Chamado-Augusto-Cury/dp/8560096272'>O Vendedor de Sonhos - O chamado</a>
+ - <a href='https://www.amazon.com.br/monge-executivo-James-C-Hunter/dp/8575421026/ref=asc_df_8575421026/?tag=googleshopp00-20&linkCode=df0&hvadid=379793566310&hvpos=&hvnetw=g&hvrand=5467959187516533254&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9074228&hvtargid=pla-487632678366&psc=1'>O Monge e o Executivo</a>
+ - <a href='https://www.amazon.com.br/H%C3%A1bitos-das-Pessoas-Altamente-Eficazes/dp/8576840626/ref=sr_1_1?crid=1UQ6VS6NP9XJ8&keywords=os+7+h%C3%A1bitos+das+pessoas+altamente+eficazes&qid=1685633649&s=books&sprefix=os+7+habito%2Cstripbooks%2C234&sr=1-1'>Os 7 Hábitos das Pessoas Altamente Eficazes</a>
+
