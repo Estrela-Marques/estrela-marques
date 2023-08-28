@@ -67,7 +67,10 @@ Após me formar em enfermagem e trabalhar na UTI Neonatal, decidi realizar uma t
  Gosto bastante de livros e do cheiro deles também. Vou listar alguns que me fizeram mudar e pensar...
 </div>
  
- -  <a href='https://www.amazon.com.br/Vendedor-Sonhos-Chamado-Augusto-Cury/dp/8560096272'>O Vendedor de Sonhos - O chamado</a>
- - <a href='https://www.amazon.com.br/monge-executivo-James-C-Hunter/dp/8575421026/ref=asc_df_8575421026/?tag=googleshopp00-20&linkCode=df0&hvadid=379793566310&hvpos=&hvnetw=g&hvrand=5467959187516533254&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9074228&hvtargid=pla-487632678366&psc=1'>O Monge e o Executivo</a>
- - <a href='https://www.amazon.com.br/H%C3%A1bitos-das-Pessoas-Altamente-Eficazes/dp/8576840626/ref=sr_1_1?crid=1UQ6VS6NP9XJ8&keywords=os+7+h%C3%A1bitos+das+pessoas+altamente+eficazes&qid=1685633649&s=books&sprefix=os+7+habito%2Cstripbooks%2C234&sr=1-1'>Os 7 Hábitos das Pessoas Altamente Eficazes</a>
+<br>
 
+- [O Vendedor de Sonhos - O Chamado](https://www.amazon.com.br/Vendedor-Sonhos-Chamado-Augusto-Cury/dp/8560096272)
+- [O Monge e o Executivo](https://www.amazon.com.br/monge-executivo-James-C-Hunter/dp/8575421026/ref=asc_df_8575421026/?tag=googleshopp00-20&linkCode=df0&hvadid=379793566310&hvpos=&hvnetw=g&hvrand=5467959187516533254&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9074228&hvtargid=pla-487632678366&psc=1)
+- [Os 7 Hábitos das Pessoas Altamente Eficazes](https://www.amazon.com.br/H%C3%A1bitos-das-Pessoas-Altamente-Eficazes/dp/8576840626/ref=sr_1_1?crid=1UQ6VS6NP9XJ8&keywords=os+7+h%C3%A1bitos+das+pessoas+altamente+eficazes&qid=1685633649&s=books&sprefix=os+7+habito%2Cstripbooks%2C234&sr=1-1)
+- [Os Miseráveis](https://www.amazon.com.br/Os-Miser%C3%A1veis-Victor-Hugo/dp/8544000002/ref=asc_df_8544000002/?tag=googleshopp00-20&linkCode=df0&hvadid=379749006424&hvpos=&hvnetw=g&hvrand=14095973287837195200&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100726&hvtargid=pla-786135647257&psc=1)
+- [O Pequeno Príncipe](https://www.amazon.com.br/Pequeno-Pr%C3%ADncipe-Edi%C3%A7%C3%A3o-Luxo/dp/8581303072/ref=sr_1_3?crid=2XFZO6DJQBHMB&keywords=o+pequeno+principe&qid=1693231773&s=books&sprefix=o+p%2Cstripbooks%2C202&sr=1-3)
