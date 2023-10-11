@@ -34,7 +34,7 @@
    
    <br>
    
-  ![Snake animation](https://github.com/Estrela-Marques/estrela-marques/blob/output/github-contribution-grid-snake.svg)
+  
   ![snake gif](https://github.com/Estrela-Marques/estrela-marques/blob/output/github-contribution-grid-snake.svg)
    
  
