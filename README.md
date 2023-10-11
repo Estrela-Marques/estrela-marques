@@ -12,12 +12,14 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Star-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Star-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Star-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Star-Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Star-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+  <img align="center" alt="Star-C#" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Star.NET" height="30" width="40" src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor">
   <img align="center" alt="Star-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Star-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Star-C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">  
+ 
 </div>
    
 <br>
