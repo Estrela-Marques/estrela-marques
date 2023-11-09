@@ -1,35 +1,31 @@
-# Nome da Actions:  
 name: Snake Game
 
-# Controlador do tempo que sera feito a atualização dos arquivos.
 on:
   schedule:
-      # Será atualizado a cada 5 horas.
     - cron: "0 */5 * * *"
-
-# Permite executar na na lista de Actions (utilizado para testes de build).
   workflow_dispatch:
 
-# Regras
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '16'
+          registry-url: 'https://registry.npmjs.org/'
 
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
 
-    # Repositorio que será utilizado para gerar os arquivos.
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Estrela-Marques
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - run: git status
-
-      # Para as atualizações.
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
@@ -37,9 +33,8 @@ jobs:
           branch: master
           force: true
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v2.2.1
         with:
-          # the output branch we mentioned above
           target_branch: output
           build_dir: dist
         env:
