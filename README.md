@@ -40,9 +40,7 @@
   </div>
    
    <br>
-   
-  
-  <!--!Cobrinha que parou de fucionar[snake animation](https://github.com/Estrela-Marques/estrela-marques/blob/output/github-contribution-grid-snake.svg)-->
+
 
   
 
